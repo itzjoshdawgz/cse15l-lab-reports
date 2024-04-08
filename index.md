@@ -6,5 +6,5 @@ _**Hello World this is a text that is being written as part of the first lab in 
 ## cd command Examples 
 ![Image](cd commands.png)
 ## ls command Examples
-!{[Image](ls commands.png)
+![Image](ls commands.png)
 ## cat command Examples
