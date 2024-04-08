@@ -8,3 +8,4 @@ _**Hello World this is a text that is being written as part of the first lab in 
 ## ls command Examples
 ![Image](ls commands.png)
 ## cat command Examples
+![Image](cat commands.png)
