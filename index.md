@@ -4,7 +4,7 @@ _**Hello World this is a text that is being written as part of the first lab in 
 # **Lab Report 1**
 
 ## cd command Examples 
-![Image](cd commands.png)
+![Image](cd command.png)
 ## ls command Examples
 ![Image](ls commands.png)
 ## cat command Examples
